@@ -1,10 +1,52 @@
 {
 	"name": "Green Dark Supercharged",
 	"colors": {
+
+		"foreground": "#d1d1d1",
+		"focusBorder": "#23dc91",
+		"selection.background": "#00814b",
+
 		"editor.background": "#312c2e",
 		"editor.foreground": "#eeffff",
+		"editor.selectionBackground": "#00814b62",
 		"activityBarBadge.background": "#23dc91",
-		"sideBarTitle.foreground": "#23dc91"
+		"activityBar.activeBackground": "#1aff812f",
+		"activityBar.foreground": "#00ffb3",
+		"activityBar.inactiveForeground": "#919191",
+		"sideBarTitle.foreground": "#23dc91",
+		"button.background": "#47af76",
+		"statusBar.background": "#276d4c",
+		"statusBarItem.errorForeground": "#000000",
+		"statusBarItem.errorBackground": "#ff0000",
+		"statusBarItem.warningForeground": "#000000",
+		"statusBarItem.warningBackground": "#ffdb3c",
+		"statusBar.debuggingBackground": "#58d691",
+		"editorWidget.background": "#363233",
+		"editorWidget.border": "#5afc9e",
+		"editorSuggestWidget.background": "#363233",
+		"editorSuggestWidget.border": "#44aa6f",
+		"editorSuggestWidget.highlightForeground": "#23dc91",
+		"editorSuggestWidget.selectedBackground": "#406951",
+		"editorSuggestWidget.focusHighlightForeground": "#23ff78",
+		"editorError.foreground": "#ff4c87",
+		"list.errorForeground": "#eb3974",
+		"list.warningForeground": "#ffdb3c",
+		"list.inactiveSelectionBackground": "#00ffaa28",
+		"tab.activeBorderTop": "#23dc91",
+		"tab.activeBackground": "#1aff8117",
+		"pickerGroup.border": "#23dc91",
+		"pickerGroup.foreground": "#23dc91",
+		"quickInputList.focusBackground": "#1aff8117",
+		"quickInputList.focusForeground": "#00ff6a",
+		"inputOption.activeBackground": "#1aff8117",
+		"inputOption.activeBorder": "#23dc91",
+		"notificationCenter.border": "#23dc91",
+		"notificationCenterHeader.foreground": "#23dc91",
+		"notificationToast.border": "#23dc91",
+		"notifications.foreground": "#23dc91",
+		"menu.selectionBackground": "#1aff8117",
+		"textLink.foreground": "#00ff88"
+		
 	},
 	"tokenColors": [
 		{
@@ -360,7 +402,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#C3E88D"
 			}
 		},
 		{
@@ -369,7 +411,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#00cf5d"
 			}
 		},
 		{
@@ -378,7 +420,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#00bd5e"
 			}
 		},
 		{
@@ -387,7 +429,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#008145"
 			}
 		},
 		{
@@ -396,7 +438,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C17E70"
+				"foreground": "#006d40"
 			}
 		},
 		{
@@ -405,7 +447,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#005a23"
 			}
 		},
 		{
@@ -414,7 +456,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#005222"
 			}
 		},
 		{
@@ -423,7 +465,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#006e40"
 			}
 		},
 		{
@@ -432,7 +474,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#005736"
 			}
 		},
 		{

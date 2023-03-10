@@ -1,0 +1,21 @@
+{
+  "name": "green-dark-supercharged",
+  "displayName": "Green Dark Supercharged",
+  "description": "Green Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Dark Supercharged",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green Dark Supercharged-color-theme.json"
+      }
+    ]
+  }
+}

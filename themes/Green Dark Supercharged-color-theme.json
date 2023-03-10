@@ -31,6 +31,7 @@
 		"editorError.foreground": "#ff4c87",
 		"list.errorForeground": "#eb3974",
 		"list.warningForeground": "#ffdb3c",
+		"list.activeSelectionBackground": "#00ffaa28",
 		"list.inactiveSelectionBackground": "#00ffaa28",
 		"tab.activeBorderTop": "#23dc91",
 		"tab.activeBackground": "#1aff8117",
@@ -222,7 +223,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#3bf7ce"
 			}
 		},
 		{
@@ -700,6 +701,27 @@
 			"settings": {
 				"foreground": "#00ff73",
 				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Object Literal",
+			"scope": [
+				"meta.objectliteral"
+			],
+			"settings": {
+				"foreground": "#23dc91",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Type Parameters",
+			"scope": [
+				"punctuation.definition.typeparameters",
+				"meta.type.parameters"
+			],
+			"settings": {
+				"foreground": "#3bf7ce",
+				"fontStyle": ""	
 			}
 		}
 	]

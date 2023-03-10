@@ -87,7 +87,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178",
+				"foreground": "#4fe9a1",
 				"fontStyle": ""
 			}
 		},
@@ -244,7 +244,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#DC3523",
+				"foreground": "#ce2976",
 				"fontStyle": ""
 			}
 		},

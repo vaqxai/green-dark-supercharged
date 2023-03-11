@@ -22,7 +22,7 @@
 		"statusBarItem.warningBackground": "#ffdb3c",
 		"statusBar.debuggingBackground": "#58d691",
 		"editorWidget.background": "#363233",
-		"editorWidget.border": "#5afc9e",
+		"editorWidget.border": "#466352",
 		"editorSuggestWidget.background": "#363233",
 		"editorSuggestWidget.border": "#44aa6f",
 		"editorSuggestWidget.highlightForeground": "#23dc91",
@@ -47,7 +47,7 @@
 		"notifications.foreground": "#23dc91",
 		"menu.selectionBackground": "#1aff8117",
 		"textLink.foreground": "#00ff88"
-		
+
 	},
 	"tokenColors": [
 		{
@@ -144,7 +144,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#2cff61",
+				"foreground": "#53daa2",
 				"fontStyle": ""
 			}
 		},
@@ -721,7 +721,7 @@
 			],
 			"settings": {
 				"foreground": "#3bf7ce",
-				"fontStyle": ""	
+				"fontStyle": ""
 			}
 		}
 	]

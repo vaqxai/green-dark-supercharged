@@ -4,6 +4,7 @@
   "description": "Green Dark Theme",
   "version": "1.0.4",
   "publisher": "Vaqxai",
+  "icon": "greendark_icon.png",
   "engines": {
     "vscode": "^1.76.0"
   },

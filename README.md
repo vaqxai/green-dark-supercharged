@@ -1,7 +1,5 @@
 # Green Dark Supercharged
 
-## Now featuring: Gold!
-
 ## This is a cool, green and red dark theme for VS Code,
 I made it because I found a specific lack of themes that suit my taste.
 If you have any ideas don't hesitate to share them with me.

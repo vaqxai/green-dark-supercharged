@@ -6,7 +6,7 @@
 		"focusBorder": "#23dc91",
 		"selection.background": "#00814b",
 
-		"editor.background": "#312c2e",
+		"editor.background": "#1d1d1d",
 		"editor.foreground": "#eeffff",
 		"editor.selectionBackground": "#00814b62",
 		"activityBarBadge.background": "#23dc91",
@@ -68,7 +68,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#00ff9d"
+				"foreground": "#55d48a"
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ffd931",
+				"foreground": "#bbff00",
 				"fontStyle": ""
 			}
 		},
@@ -144,7 +144,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#53daa2",
+				"foreground": "#53da90",
 				"fontStyle": ""
 			}
 		},

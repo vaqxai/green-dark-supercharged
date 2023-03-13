@@ -2,9 +2,9 @@
   "name": "green-dark-supercharged",
   "displayName": "Green Dark Supercharged",
   "description": "Green Dark Theme",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "publisher": "Vaqxai",
-  "icon": "greendark_icon.png",
+  "icon": "GreenDarkSuperchargedLogo.png",
   "engines": {
     "vscode": "^1.76.0"
   },

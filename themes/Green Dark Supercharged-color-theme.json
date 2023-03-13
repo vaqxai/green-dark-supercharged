@@ -738,6 +738,15 @@
 				"foreground": "#3bf7ce",
 				"fontStyle": ""
 			}
+		},
+		{
+			"name": "Source - Generic",
+			"scope": [
+				"source"
+			],
+			"settings": {
+				"foreground": "#28ff6f"
+			}
 		}
 	]
 }

@@ -59,6 +59,7 @@
 				"comment.block keyword.other",
 				"comment.block keyword.operator",
 				"comment.block punctuation.definition",
+				"comment.block keyword.control",
 				"comment.block keyword.control.glua",
 				"comment.block punctuation",
 				"punctuation.definition.comment"
@@ -196,6 +197,13 @@
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
+				"string keyword.control",
+				"string keyword.control.glua",
+				"string keyword.other",
+				"string punctuation.definition",
+				"string keyword.operator",
+				"string entity.name",
+				"string punctuation",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",

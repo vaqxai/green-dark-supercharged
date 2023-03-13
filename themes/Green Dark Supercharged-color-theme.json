@@ -53,7 +53,14 @@
 		{
 			"name": "Comment",
 			"scope": [
-				"comment",
+				"comment.block",
+				"comment.line",
+				"comment.block entity.name",
+				"comment.block keyword.other",
+				"comment.block keyword.operator",
+				"comment.block punctuation.definition",
+				"comment.block keyword.control.glua",
+				"comment.block punctuation",
 				"punctuation.definition.comment"
 			],
 			"settings": {
